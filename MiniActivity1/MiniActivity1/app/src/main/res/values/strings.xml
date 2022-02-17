@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MiniActivity1</string>
+
+
+    <string name="shake">Shake to get a toast and to switch color</string>
+    <string name="shuffed">Device was shuffed</string>
+    <string name="accelerometer_placeholder">Shake to get a toast and to switch color\n\nResolution: %1$f\nMaxium Range: %2$f\nVendor: %3$s\nName: %4$s\n</string>
+    <string name="accelerometer_missing">Sorry, there is no accelerometer</string>
+
+    <string name="light_missing">Sorry, there is no light sensor</string>
+    <string name="light_placeholder">Light sensor present\n\nResolution: %1$f\nMaxium Range: %2$f\nVendor: %3$s\nName: %4$s\n\n</string>
+    <string name="new_value">New value light sensor = %1$f lx\n%2$s Intensity\n</string>
+    <string name="low">LOW</string>
+    <string name="medium">MEDIUM</string>
+    <string name="high">HIGH</string>
+</resources>
